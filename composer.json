@@ -27,6 +27,7 @@
         "drupal/core-composer-scaffold": "^9.0",
         "drupal/core-recommended": "^9.0@stable",
         "drupal/guardr_core": "^2.0",
+        "drupal/inline_entity_form": "^1.0@RC",
         "drupal/s3fs": "^3.0@beta",
         "drupal/views_bulk_operations": "^4.0",
         "drush/drush": "^10.3",
